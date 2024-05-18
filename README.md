@@ -8,10 +8,12 @@ Steps to use:
 
 Open a new empty folder in VS Code. Copy the below code in the terminal
 
- git clone https://github.com/nagaspammer1200/BasicReactStarter.git
- cd BasicReactStarter
+ git clone https://github.com/nagaspammer1200/vuebootstrapstarter.git
+ cd vuebootstrapstarter
  npm install 
  npm run dev
 After the npm run dev, you should see instructions to load the basic structure locally
+
+The Page loaded is blank without any elements as no elements were included in the files.
 
 Happy Coding !!!
