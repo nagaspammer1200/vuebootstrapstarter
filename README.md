@@ -1,7 +1,17 @@
-# Vue 3 + Vite
+This is a basic template for any Vue JS project which incorporates Bootstrap CSS.
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+Bootstrap CSS has been included in the files using a CDN in the index.html. My experience with Bootstrap has lead to me using the CDN to initialize Bootstrap. Using npm command did not yield much results.
 
-## Recommended IDE Setup
+Vue used is version 3.4.21
 
-- [VS Code](https://code.visualstudio.com/) + [Vue - Official](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (previously Volar) and disable Vetur
+Steps to use:
+
+Open a new empty folder in VS Code. Copy the below code in the terminal
+
+ git clone https://github.com/nagaspammer1200/BasicReactStarter.git
+ cd BasicReactStarter
+ npm install 
+ npm run dev
+After the npm run dev, you should see instructions to load the basic structure locally
+
+Happy Coding !!!
